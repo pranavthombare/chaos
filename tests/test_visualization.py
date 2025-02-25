@@ -1,12 +1,12 @@
 """
-Tests for the chaosmaps visualization functionality
+Tests for the chaos visualization functionality
 """
 
 import pytest
 import matplotlib
 matplotlib.use('Agg')  # Use non-interactive backend for testing
 import matplotlib.pyplot as plt
-from chaosmaps.visualization import plot_time_series, plot_bifurcation_map
+from chaos.visualization import plot_time_series, plot_bifurcation_map
 
 
 def test_plot_time_series():

@@ -1,5 +1,5 @@
 """
-Command-line interface for the chaosmaps package
+Command-line interface for the chaos package
 """
 
 import argparse
@@ -8,7 +8,7 @@ from .visualization import plot_time_series, plot_bifurcation_map
 
 
 def main():
-    """Main entry point for the chaosmaps CLI"""
+    """Main entry point for the chaos CLI"""
     parser = argparse.ArgumentParser(description='Explore chaos theory through the logistic map.')
     subparsers = parser.add_subparsers(dest='command', help='Command to run')
 

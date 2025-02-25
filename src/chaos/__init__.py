@@ -1,5 +1,5 @@
 """
-ChaosMaps - A package for exploring chaos theory through the logistic map
+Chaos - A package for exploring chaos theory through the logistic map
 """
 
 __version__ = '0.1.0'

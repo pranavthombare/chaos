@@ -1,10 +1,10 @@
 """
-Tests for the chaosmaps logistic map functionality
+Tests for the chaos logistic map functionality
 """
 
 import pytest
 import numpy as np
-from chaosmaps.logistic_map import logistic_function, iterate_logistic
+from chaos.logistic_map import logistic_function, iterate_logistic
 
 
 def test_logistic_function():

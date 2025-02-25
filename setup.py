@@ -1,5 +1,5 @@
 """
-Setup file for the ChaosMaps package
+Setup file for the Chaos package
 """
 
 from setuptools import setup
