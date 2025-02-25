@@ -1,5 +1,6 @@
-# ChaosMaps
+# Chaos
 
+[![Build Python Package](https://github.com/pranavthombare/chaos/actions/workflows/build.yml/badge.svg)](https://github.com/pranavthombare/chaos/actions/workflows/build.yml)
 A Python package for exploring chaos theory through the logistic map.
 
 ## Installation
