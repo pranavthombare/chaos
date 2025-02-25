@@ -1,0 +1,2 @@
+[console_scripts]
+chaos = chaos.cli:main

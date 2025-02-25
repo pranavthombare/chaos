@@ -1,0 +1,15 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/chaos/__init__.py
+src/chaos/cli.py
+src/chaos/logistic_map.py
+src/chaos/visualization.py
+src/chaos.egg-info/PKG-INFO
+src/chaos.egg-info/SOURCES.txt
+src/chaos.egg-info/dependency_links.txt
+src/chaos.egg-info/entry_points.txt
+src/chaos.egg-info/requires.txt
+src/chaos.egg-info/top_level.txt
